@@ -1,3 +1,3 @@
 # ISDS (ISUP et Sorbonne Université)
-Ingénierie Statistique et Data Science (ISDS) du master Ingénierie mathématiques de Sorbonne Université et d'ISUP.
+Ingénierie Statistique et Data Science (ISDS) du master Ingénierie mathématiques de Sorbonne Université et d'ISUP.<b/>
 https://isup.sorbonne-universite.fr/formations/filiere-ingenierie-statistique-et-data-science-isds
