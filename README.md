@@ -1,10 +1,8 @@
 # ISDS (ISUP et Sorbonne Université)
 Ingénierie Statistique et Data Science (ISDS) du master Mathématiques de Sorbonne Université et d'ISUP.<br/>
-![image](https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-mathematiques-et-applications/m2-parcours-ingenierie-mathematique)
-![image](https://isup.sorbonne-universite.fr/formations/filiere-ingenierie-statistique-et-data-science-isds)
 
-https://isup.sorbonne-universite.fr/formations/filiere-ingenierie-statistique-et-data-science-isds <br/>
-https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-mathematiques-et-applications/m2-parcours-ingenierie-mathematique
+🔗[https://isup.sorbonne-universite.fr/formations/filiere-ingenierie-statistique-et-data-science-isds] <br/>
+🔗[https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-mathematiques-et-applications/m2-parcours-ingenierie-mathematique]
 
 <a id="top"></a>
 <div class="list-group" id="list-tab" role="tablist">
@@ -27,8 +25,8 @@ https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-mathem
   Ce module a pour objectif de faire découvrir les processus de Markov. Ces processus sont très intéressants dans la mesure où ils possèdent de nombreuses applications. La découverte de ces processus comme nous le voyons sous-entend une compréhension mathématique du phénomène mais aussi une approche pragmatique grâce à des exercices appliqués à des situations quotidiennes.
  
 
-**Calcul stochastique** (avec Prof. Zhan Shi) :  
-  🔗[****](https://www.lpsm.paris/pageperso/zhan/ifma.html)
+🔗[**Calcul stochastique**](https://www.lpsm.paris/pageperso/zhan/ifma.html) (avec Prof. Zhan Shi) :  
+  
   
   L’objet de la théorie des processus stochastiques (ou aléatoires) est l’étude des phénomènes aléatoires dépendant du temps. Le but de ce cours est d'introduire les notions de martingales, de mouvement brownien et d'intégrales stochastiques par rapport au mouvement brownien ainsi que les bases du calcul d'Itô.
  
