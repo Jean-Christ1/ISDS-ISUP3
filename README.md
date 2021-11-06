@@ -21,13 +21,18 @@ https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-mathem
   
 **Modèles aléatoires** (avec Prof. Olivier Bardou):  <br/> 
   
-  ce module a pour objectif de faire découvrir les processus de Markov. Ces processus sont très intéressants dans la mesure où ils possèdent de nombreuses applications. La découverte de ces processus comme nous le voyons sous-entend une compréhension mathématique du phénomène mais aussi une approche pragmatique grâce à des exercices appliqués à des situations quotidiennes.
+  Ce module a pour objectif de faire découvrir les processus de Markov. Ces processus sont très intéressants dans la mesure où ils possèdent de nombreuses applications. La découverte de ces processus comme nous le voyons sous-entend une compréhension mathématique du phénomène mais aussi une approche pragmatique grâce à des exercices appliqués à des situations quotidiennes.
  
 
-Calcul stochastique (avec Prof. Zhan Shi) :  l’objet de la théorie des processus stochastiques (ou aléatoires) est l’étude des phénomènes aléatoires dépendant du temps. Le but de ce cours est d'introduire les notions de martingales, de mouvement brownien et d'intégrales stochastiques par rapport au mouvement brownien ainsi que les bases du calcul d'Itô.
+**Calcul stochastique** (avec Prof. Zhan Shi) :  
+  [https://www.lpsm.paris/pageperso/zhan/ifma.html]
+  
+  L’objet de la théorie des processus stochastiques (ou aléatoires) est l’étude des phénomènes aléatoires dépendant du temps. Le but de ce cours est d'introduire les notions de martingales, de mouvement brownien et d'intégrales stochastiques par rapport au mouvement brownien ainsi que les bases du calcul d'Itô.
  
 
-Machine Learning (avec prof. Claire Boyer) : ce cours présente les grands principes du Machine Learning  et automatique et les principales méthodes de prédiction (classification et régression), de clustering et de réduction de dimension , du Deep Learning.  Ce cours à pour but de fournir les outils nécessaires à :
+**Machine Learning** (avec prof. Claire Boyer) : 
+  
+  Ce cours présente les grands principes du Machine Learning  et automatique et les principales méthodes de prédiction (classification et régression), de clustering et de réduction de dimension , du Deep Learning.  Ce cours à pour but de fournir les outils nécessaires à :
 identidier les problèmes qui peuvent être résolus par des approches de Machine Learning ;
 formaliser ces problèmes en termes de Machine Learning ;
 identiﬁer les algorithmes classiques les plus appropriés pour ces problèmes et les mettre en œuvre afin d’en comprendre les tenants et aboutissants ;
