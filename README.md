@@ -25,7 +25,7 @@ https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-mathem
  
 
 **Calcul stochastique** (avec Prof. Zhan Shi) :  
-  [https://www.lpsm.paris/pageperso/zhan/ifma.html]
+  🔗[https://www.lpsm.paris/pageperso/zhan/ifma.html]
   
   L’objet de la théorie des processus stochastiques (ou aléatoires) est l’étude des phénomènes aléatoires dépendant du temps. Le but de ce cours est d'introduire les notions de martingales, de mouvement brownien et d'intégrales stochastiques par rapport au mouvement brownien ainsi que les bases du calcul d'Itô.
  
