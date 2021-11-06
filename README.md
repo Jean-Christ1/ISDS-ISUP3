@@ -19,7 +19,7 @@ https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-mathem
 <a href="#top" class="btn btn-primary btn-sm" role="button" aria-pressed="true" style="color:white" data-toggle="popover">Go to TOC</a>
   
   
-*Modèles aléatoires* (avec Prof. Olivier Bardou):  ce module a pour objectif de faire découvrir les processus de Markov. Ces processus sont très intéressants dans la mesure où ils possèdent de nombreuses applications. La découverte de ces processus comme nous le voyons sous-entend une compréhension mathématique du phénomène mais aussi une approche pragmatique grâce à des exercices appliqués à des situations quotidiennes.
+**Modèles aléatoires** (avec Prof. Olivier Bardou):  ce module a pour objectif de faire découvrir les processus de Markov. Ces processus sont très intéressants dans la mesure où ils possèdent de nombreuses applications. La découverte de ces processus comme nous le voyons sous-entend une compréhension mathématique du phénomène mais aussi une approche pragmatique grâce à des exercices appliqués à des situations quotidiennes.
  
 
 Calcul stochastique (avec Prof. Zhan Shi) :  l’objet de la théorie des processus stochastiques (ou aléatoires) est l’étude des phénomènes aléatoires dépendant du temps. Le but de ce cours est d'introduire les notions de martingales, de mouvement brownien et d'intégrales stochastiques par rapport au mouvement brownien ainsi que les bases du calcul d'Itô.
