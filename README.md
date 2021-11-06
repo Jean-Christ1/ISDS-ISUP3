@@ -5,11 +5,8 @@ https://sciences.sorbonne-universite.fr/formation-sciences/masters/master-mathem
 
 <a id="top"></a>
 <div class="list-group" id="list-tab" role="tablist">
-<h3 class="list-group-item list-group-item-action active" data-toggle="list" role="tab" aria-controls="home">Table of Content</h3>
+<h3 class="list-group-item list-group-item-action active" data-toggle="list" role="tab" aria-controls="home">PROGRAMME MASTER 2 - ISDS</h3>
   
-  * [1. Libraries](#1)
-* [2. Reading the Data](#2)
-    - [2.1 An Overview from the Data](#2.1)
-* [3. Exploratory Data Analysis](#3) 
-    - [3.1 Total Orders on E-Commerce](#3.1)
-    - [3.2 E-Commerce Around Brazil](#3.2)
+* [1. BLOC 1 : UE - Ingénierie 1 et UE - Mathématiques et modélisation](#2)
+* [2. BLOC 2 : UE - Ingénierie 1 et UE - Mathématiques et modélisation](#2)
+* [3. BLOC 3 : UE - Ingénierie 1 et UE - Mathématiques et modélisation](#2)
