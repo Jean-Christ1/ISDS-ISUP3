@@ -15,7 +15,7 @@ Ingénierie, Statistique et Data Science (ISDS) du master Ingénieris Mathémati
   ---------------
   
   <a id="2"></a>
-<font color="darkslateblue" size=+2.5><b>1. BLOC 1 : UE - Ingénierie 1 et UE - Mathématiques et modélisation</b></font>
+<font color="darkslateblue" size=+2.5><b>[1. BLOC 1 : UE - Ingénierie 1 et UE - Mathématiques et modélisation]()</b></font>
 
 
 [**Machine Learning**]() (avec prof. Claire Boyer) : 
