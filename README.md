@@ -18,7 +18,7 @@ Ingénierie, Statistique et Data Science (ISDS) du master Ingénieris Mathémati
 <font color="darkslateblue" size=+2.5><b>[1. BLOC 1 : UE - Ingénierie 1 et UE - Mathématiques et modélisation]()</b></font>
 
 
-[**Machine Learning**]() (avec prof. Claire Boyer) : 
+[**Machine Learning**]() (prof. Claire Boyer) : 
   
   Ce cours présente les grands principes de l’apprentissage statistique et automatique et les principales méthodes de prédiction (classification et régression), de clustering et de réduction de dimension. On s’attachera à aborder l’apprentissage automatique d’un point de vue théorique mais aussi d’un point de vue algorithmique, puisque la plupart des concepts pourront s’illustrer par des travaux pratiques en Python.  Il a pour but de fournir les outils nécessaires à :
 - Identidier les problèmes qui peuvent être résolus par des approches de Machine Learning ;
@@ -34,7 +34,7 @@ Ingénierie, Statistique et Data Science (ISDS) du master Ingénieris Mathémati
 - Introduction au deep learning (pour l'UE de Spécialisation).
 
   
-[**Modèles aléatoires**] (avec Prof. Olivier Bardou):  <br/> 
+[**Modèles aléatoires**] (Prof. Olivier Bardou):  <br/> 
   
   Ce module a pour objectif d'aborder la modélisation Markovienne. Ces processus sont très intéressants dans la mesure où ils possèdent de nombreuses applications. La découverte de ces processus de Markov comme nous le voyons sous-entend une compréhension mathématique du phénomène mais aussi une approche pragmatique grâce à des exercices appliqués à des situations quotidiennes.
 - Chaînes de Markov à temps discret;
@@ -42,7 +42,7 @@ Ingénierie, Statistique et Data Science (ISDS) du master Ingénieris Mathémati
 - Propriétés des processus en temps long, théorèmes ergodiques.
 - etc.
 
-[**Calcul stochastique**](https://www.lpsm.paris/pageperso/zhan) (avec Prof. Zhan Shi) :  
+[**Calcul stochastique**](https://www.lpsm.paris/pageperso/zhan) (Prof. Zhan Shi) :  
   
   L’objet de la théorie des processus stochastiques est l’étude des phénomènes aléatoires dépendant du temps. Le but de ce cours est d'introduire les notions de martingales, de mouvement brownien et d'intégrales stochastiques par rapport au mouvement brownien ainsi que les bases du calcul d'Itô.
 - Martingales à temps discret, martingales à temps continu, convergences et théorème d’arrêt;
@@ -53,16 +53,17 @@ Ingénierie, Statistique et Data Science (ISDS) du master Ingénieris Mathémati
 
 
   
-[**TP C/C++**]() (avec Prof. Vincent Lemaire) : 
+[**TP C/C++**]() (Prof. Vincent Lemaire) : 
   
   Maîtriser les principes fondamentaux de la conception objet et les pratiquer de façon effective en C++ au travers d’une application réalisée de façon itérative. Mettre en œuvre les nouveautés offertes par la dernière norme C++ 11 / 14. Les différents aspects abordés pendant ce cours sont les suivants :
 - Syntaxe classique du C/C++;
 - Programmation orientée objets (classes, héritage, polymorphisme dynamique) ;
 - Programmation générique (Template, STL, polymorphisme statique);
-- etc.
+- la programmation moderne du C++14 et l’intégration avec R via Rcpp et Python via pybind11; 
+- Exemples numériques liés aux équations paraboliques (méthodes déterministes et aléatoires).
  
 
-[**Méthodes Numériques**]() (avec Prof. Cindy Guichard) : 
+[**Méthodes Numériques**]() (Prof. Cindy Guichard) : 
   
   Ce cours traite de la discrétisation des  équation aux dérivées partielles (EDP) en 1D (une dimension) et 2D notamment par la méthode des différences finies.
 
@@ -71,5 +72,18 @@ Ingénierie, Statistique et Data Science (ISDS) du master Ingénieris Mathémati
  
   
   <a id="2"></a>
-<font color="darkslateblue" size=+2.5><b>2. BLOC fondamental : UE - Ingénierie 2 et UE - Informatique pour l'ingénierie</b></font>
-
+<font color="darkslateblue" size=+2.5><b>[2. BLOC fondamental : UE - Ingénierie 2 et UE - Informatique pour l'ingénierie]()</b></font>
+   
+[Modèles à structures latente]()  (Prof. Jean-Patrick Baudry):  
+  
+  Ce module aborde l'ensemble des techniques d’exploration des données servant à résumer les informations sur les données ou à déterminer des liens entre les points. Il a pour but principal de structurer les données en classes homogènes. C'est-à-dire, regrouper les points (individus) en clusters ou classes de telles sortes que les données d’un cluster soient les plus similaires possibles. Ce cours, tout comme les cours cités dans mes rapports précédant, y compris ce rapport et ceux à venir, se veut pratique en proposant des exercices de TP par binôme  et des application concrètes mis en ouvre principalement avec le logiciels R. Les notions abordées dans ce cours apportent des réponses concrètes aux problématiques liées :
+- A la nature des observations (données) ;
+- Au notion de similarité ou de dissimilarité entre observations ;
+- Aux caractéristiques d’un cluster ;
+- Au choix du nombre (optimal) de clusters et aux comparaisons de diﬀérents résultats de clustering ;
+- au fonctionnement des algorithmes de clustering et au choix de ces algorithmes (ACP, Kmeans, CHA, Model-Based Clustering,  Méthodes bayésiennes, Markov chain Monte Carlo (MCMC methode)) ; 
+- etc.
+  
+  
+  
+  
