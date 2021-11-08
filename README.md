@@ -82,7 +82,7 @@ Ingénierie, Statistique et Data Science (ISDS) du master Ingénieris Mathémati
 <a id="2.1"></a>
 <font color="dimgrey" size=+2.0><b>[2.1 UE - Ingénierie 2]()</b></font>  
 
-[Modèles à structures latente]()  (Prof. Jean-Patrick Baudry):  
+[**Modèles à structures latente**]()  (Prof. Jean-Patrick Baudry):  
   
   Ce module aborde l'ensemble des techniques d’exploration des données servant à résumer les informations sur les données ou à déterminer des liens entre les points. Il a pour but principal de structurer les données en classes homogènes. C'est-à-dire, regrouper les points (individus) en clusters ou classes de telles sortes que les données d’un cluster soient les plus similaires possibles. Ce cours, tout comme les cours cités dans mes rapports précédant, y compris ce rapport et ceux à venir, se veut pratique en proposant des exercices de TP par binôme  et des application concrètes mis en ouvre principalement avec le logiciels R. Les notions abordées dans ce cours apportent des réponses concrètes aux problématiques liées :
 - A la nature des observations (données) ;
