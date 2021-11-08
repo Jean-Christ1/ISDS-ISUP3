@@ -8,9 +8,9 @@ Ingénierie, Statistique et Data Science (ISDS) du master Ingénieris Mathémati
 <div class="list-group" id="list-tab" role="tablist">
 <h3 class="list-group-item list-group-item-action active" data-toggle="list" role="tab" aria-controls="home">PROGRAMME ISDS 2 - ISUP3</h3>
   
-* [1. BLOC base              : UE - Ingénierie 1 et UE - Mathématiques et modélisation](#2)
+* [1. BLOC base              : UE - Ingénierie 1 et UE - Mathématiques et modélisation](#1)
 * [2. BLOC fondamental       : UE - Ingénierie 2 et UE - Informatique pour l'ingénierie](#2)
-* [3. BLOC de spécialisation : UE - Spécialisation 1 et UE - Spécialisation 2](#2)
+* [3. BLOC de spécialisation : UE - Spécialisation 1 et UE - Spécialisation 2](#3)
 
   ---------------
   
@@ -206,4 +206,6 @@ Les plans d'expériences s'inscrivent dans une démarche générale d'améliorat
   
   
   
+--------------------------
+🔗[https://www.lpsm.paris/M2IngMath/isds/enseignements/]
   
