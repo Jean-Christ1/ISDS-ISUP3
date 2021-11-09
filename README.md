@@ -152,7 +152,9 @@ Le principe de ce cours est d'apprendre à modéliser et à manipuler des donné
   
 
   
-  ...
+  ....... (en cours de rédaction)
+  
+  .......
 
   
   
@@ -205,7 +207,7 @@ L'objectifs :  acquérir les concepts et les méthodes des plans d'expériences 
 Les plans d'expériences s'inscrivent dans une démarche générale d'amélioration de la qualité. Le contexte de leur utilisation recouvre des phénomènes de type « boîte noire »  que l’on cherche à éclaircir pour mieux comprendre le fonctionnement et en optimiser les performances. La démarche est expérimentale : l’information sur le phénomène est acquise à partir des essais.
   
   
-  
+--------------------------
 --------------------------
 🔗[https://www.lpsm.paris/M2IngMath/isds/enseignements/]
   
