@@ -158,8 +158,6 @@ Le principe de ce cours est d'apprendre à modéliser et à manipuler des donné
 
   
   
-  
-  
 [**Calcul parallèle : Unité Calcul à Haute Performance**]() (Prof. François-Xavier Roux et Prof. Xavier Juvigny) : 
 
   les objectif du cours sont les suivants :
