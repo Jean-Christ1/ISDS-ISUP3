@@ -48,7 +48,7 @@ Ingénierie, Statistique et Data Science (ISDS) du master Ingénieris Mathémati
 <a id="1.2"></a>
 <font color="dimgrey" size=+2.0><b>[1.2 UE - Ingénierie 1]()</b></font>
   
-[**Modèles aléatoires**] (Prof. Olivier Bardou):  <br/> 
+[**Modèles aléatoires**]() (Prof. Olivier Bardou):  <br/> 
   
   Ce module a pour objectif d'aborder la modélisation Markovienne. Ces processus sont très intéressants dans la mesure où ils possèdent de nombreuses applications. La découverte de ces processus de Markov comme nous le voyons sous-entend une compréhension mathématique du phénomène mais aussi une approche pragmatique grâce à des exercices appliqués à des situations quotidiennes.
 - Chaînes de Markov à temps discret;
